@@ -1,5 +1,7 @@
 surya="AMMA"
 love="oye"
+curry="fish"
 echo "vinith last name is $surya"
 echo "my fav movie is $love and it releasing on feb 14"
+echo "my fav dish is $curry"
 echo "done"
