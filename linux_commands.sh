@@ -23,7 +23,7 @@ more <file name>
 less <file name>
 su <user name>
 id
-useradd  username
+useradd <username>
 passwd <username>
 groupadd <group name>
 cat <fileName> | cat or tac | cat or tac |. . .
